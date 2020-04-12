@@ -1,7 +1,7 @@
 /*
- * Filename: PA1.java
- * Name: Yingxi Long
- * Login: cs8bwi20dk
+ * Filename: coolArray.java
+ * Name: ***
+ * Login: ***
  * Date: January 13, 2020
  * Sources Used:
  * [1]Handling negative numbers by Mod in java:
